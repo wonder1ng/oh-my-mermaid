@@ -119,6 +119,9 @@ Varsayılan olarak özeldir. İsterseniz ekibinizle paylaşabilir ya da [bu örn
 
 `omm setup` komutu, yüklü tüm araçları otomatik olarak algılar ve yapılandırır.
 
+Windows'ta `omm setup`, kurulu Claude Code veya Codex'i yüklü değil olarak bildiriyorsa
+[Windows kurulum çözümüne](./docs/WINDOWS.md) bakın.
+
 ## Yol Haritası
 
 Bkz. [docs/ROADMAP.md](./docs/ROADMAP.md).

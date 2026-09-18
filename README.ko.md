@@ -119,6 +119,9 @@ omm login && omm link && omm push
 
 `omm setup`을 실행하면 설치된 모든 도구를 자동 감지하고 설정합니다.
 
+Windows에서 `omm setup`이 설치된 Claude Code 또는 Codex를 설치되지 않았다고 표시하면
+[Windows 설정 우회 방법](./docs/WINDOWS.md)을 참고하세요.
+
 ## 로드맵
 
 [docs/ROADMAP.md](./docs/ROADMAP.md)를 참고하세요.

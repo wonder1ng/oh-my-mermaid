@@ -117,6 +117,9 @@ It's private by default. Share with your team, or make it public like [this exam
 
 Run `omm setup` to auto-detect and configure all installed tools.
 
+If `omm setup` says an installed Claude Code or Codex is not installed on Windows,
+see the [Windows setup workaround](./docs/WINDOWS.md).
+
 ## Roadmap
 
 See [docs/ROADMAP.md](./docs/ROADMAP.md).
